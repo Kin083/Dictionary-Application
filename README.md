@@ -17,10 +17,10 @@ Bài tập lớn - Từ điển (UET OASIS - I2324 INT2204 23 - N2 - Lập trìn
 - Thêm, sửa, xóa từ mới
 - Tra từ
 - Phát âm tiếng anh
-- API google translate đa ngôn ngữ(10 ngôn ngữ), tra từ bằng giọng nói
-- Đánh dấu từ yêu thích, flash card để ôn luyện
-- Tính năng study nhìn nghĩa đoán từ để tăng thêm khả năng ghi nhớ từ vựng
+- API Google Translate đa ngôn ngữ(10 ngôn ngữ), tra từ bằng giọng nói
 - 2 Game HangMan và GuessWord để tăng vốn từ vựng Tiếng Anh
+- Đánh dấu từ yêu thích, Flash Card để ôn luyện
+- Tính năng Study nhìn nghĩa đoán từ để tăng thêm khả năng ghi nhớ từ vựng
 - Và 1 số tính năng khác.
 
 ## Technologies
