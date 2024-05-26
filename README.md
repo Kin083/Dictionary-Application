@@ -6,8 +6,7 @@
 - Hoàng Đăng Khải - nhóm trưởng
 - Vũ Việt Hùng
 - Lê Văn Lương
-- Trần Khánh Duy
-
+  
 ## Introduction
 
 Bài tập lớn - Từ điển (UET OASIS - I2324 INT2204 23 - N2 - Lập trình hướng đối tượng)
