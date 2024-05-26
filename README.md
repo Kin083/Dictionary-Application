@@ -3,7 +3,7 @@
 
 
 ## Contributors
-- Hoàng Đăng Khải - nhóm trưởng
+- Hoàng Đăng Khải (leader)
 - Vũ Việt Hùng
 - Lê Văn Lương
   
